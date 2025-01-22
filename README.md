@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on frontend projects where i can enhance my skills **react.js**
 
-- 🌱 I’m currently learning FULL STACK DEVELOPMENT and MACHINE LEARNING **tensorflow**
+- 🌱 I’m currently learning MACHINE LEARNING **tensorflow**
 
 - 💬 Ask me about frontend related queries **react,javascript,next.js**
 
