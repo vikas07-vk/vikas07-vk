@@ -25,7 +25,7 @@
 <h2>📊 GitHub Stats</h2>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Vikas07-vk&show_icons=true&theme=radical" width="48%" />
-  <img src="https://streak-stats.demolab.com/?user=Vikas07-vk&theme=radical" width="51%"  />
+  <img src="https://camo.githubusercontent.com/25849449261140e70205edf67bc4be4c63238eb5f33539686f4e8f2440fe5d60/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d63616d707573782d6f6666696369616c" alt="Github Stats" data-canonical-src="https://github-readme-streak-stats.herokuapp.com/?user=campusx-official" style="max-width: 100%;">
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vikas07-vk&layout=compact&theme=radical" width="51%" />
 </div>
