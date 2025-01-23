@@ -25,7 +25,7 @@
 <h2>📊 GitHub Stats</h2>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Vikas07-vk&show_icons=true&theme=radical" width="48%" />
-  <img src="https://camo.githubusercontent.com/25849449261140e70205edf67bc4be4c63238eb5f33539686f4e8f2440fe5d60/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d63616d707573782d6f6666696369616c" alt="Github Stats" data-canonical-src="https://github-readme-streak-stats.herokuapp.com/?user=campusx-official" style="max-width: 100%;">
+  <img src="https://camo.githubusercontent.com/25849449261140e70205edf67bc4be4c63238eb5f33539686f4e8f2440fe5d60/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d63616d707573782d6f6666696369616c" alt="Github Stats" data-canonical-src="https://github-readme-streak-stats.herokuapp.com/?user=vikas07-vk" style="max-width: 100%;">
   <br>
 <img src="https://camo.githubusercontent.com/f84838e9d22dc14dfe2210955fd1622fbf01b4fd3678ffe2b8f2ab3bde55f641/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d63616d707573782d6f6666696369616c" alt="Githu Stats 2" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikas07-vk" style="max-width: 100%;">
 </div>
