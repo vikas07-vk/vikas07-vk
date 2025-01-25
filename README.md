@@ -26,11 +26,20 @@
 ### GitHub Stats
 <h2>Vikas's GitHub Stats </h2> https://github-readme-stats.vercel.app/api?username=vikas07-vk&show_icons=true&theme=radical 
 
-### Most Used Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vikas07-vk&langs_count=5&layout=compact&theme=radical&hide=scss)
+
 
 ### Streak Stats
 ![GitHub Streak](https://streak-stats.demolab.com/?user=vikas07-vk&theme=radical)
+# GitHub Stats
+
+![Vikas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vikas07-vk&show_icons=true&theme=radical)
+
+## Most Used Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vikas07-vk&layout=compact&theme=radical)
+
+
+
 
 
 
