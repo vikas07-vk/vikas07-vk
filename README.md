@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **vkviki0786@gmail.com**
 
-- ⚡ hobbies: **my hobbies are exploring**
+- ⚡ Linkdin ->> www.linkedin.com/in/-vikaskumar
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
