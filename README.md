@@ -5,9 +5,9 @@
 
 - 👨‍💻🎓 3rd Year Engineering Student, working towards mastering my **craft**
 
-- 👯 I’m looking to collaborate on frontend projects where i can enhance my skills **react.js**
+- 👯 DATA VISUALIZATION AND ANALYSIS **seaborn,matplotlib,pandas etc..**
 
-- 🌱 I’m currently learning MACHINE LEARNING **tensorflow**
+- 🌱 MACHINE LEARNING ENTHUSIAST **tensorflow**
 
 - 💬 Ask me about frontend related queries **react,javascript,next.js**
 
