@@ -1,9 +1,9 @@
 <h1 align="center">👋 Hi , I'm Vikas Kumar</h1>
-<h3 align="center">A passionate frontend developer | Tech Enthusiast</h3>
+<h3 align="center">A Data Analyst ,Power BI developer| Tech Enthusiast</h3>
 
-- 🔭 I’m currently working on frontend projects with **react.js next.js**
+- 🔭 I’m currently working on advance Data analyst projects with **react.js next.js**
 
-- 👨‍💻🎓 3rd Year Engineering Student, working towards mastering my **craft**
+- 👨‍💻🎓 4th Year Engineering Student, working towards mastering my **craft**
 
 - 👯 DATA VISUALIZATION AND ANALYSIS **seaborn,matplotlib,pandas etc..**
 
